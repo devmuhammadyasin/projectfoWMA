@@ -1,0 +1,61 @@
+.main{
+    background-color: #f0fff0;
+
+}
+/* padding in list items of navbar */
+.nav-item{
+    margin-right: 20px;
+}
+/* hero section---- */
+/* .hero{
+    margin-top: 60px;
+} */
+
+
+/* INTRO SECTION */
+/* CARD */
+.card .intro-img{
+width: 3rem;
+height: auto;
+    
+}
+.card{
+    margin-top: 50px;
+    
+    border: none;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    /* box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    border-radius: 15px; */
+}
+/* .cards{
+    margin-left: 180px;
+} */
+.card:hover{
+
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}
+
+/* course section starts  */
+.course{
+    margin-top: 30px;
+}
+
+/* TESTIMONIAL */
+.testi{
+    margin-top: 80px;
+}
+.testi .testi-head{
+    font-weight: 700;
+}
+
+/* FOOTER */
+.footer-sec{
+    margin-top:150px ;
+}
+
+footer ul li a{
+    text-decoration: none;
+}
